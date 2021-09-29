@@ -1,9 +1,16 @@
 Diego Zoe Pacheco López y  4F
-¿Qué es internet?
-Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-Describe los protocolos que existen en internet, en específico HTTP y HTML
-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-¿Cómo funciona la búsqueda de google?
+1.-¿Qué es internet?
+Un sistema de comunicacion ,tal idea de romper mensajes en bloque y renviarlos tan rapido como sea posible a todas direcciones a traves de la red forma malla
+2.-Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+3.-¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+El IP es solo tu computadora preguntando a otra computadora por información de origen y el DNS(Domain Name System) asocia nombres como por ejemplo www.hola.com ,y lo que hace tu computadora es buscar los nombres principales y obtener la direccion IP asociada para conectar a tu computadora.  
+4.-Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+5.-Describe los protocolos que existen en internet, en específico HTTP y HTML
+HTTP:Significa HyperTextTransferProtocol,se ve como el lenguaje que usa tu computadora para pedir a otro ordenador un documento y esta es una compracion bastante ajustada.
+HTML:Significa HyperTextMarkupLenguaje,es el lenguaje que usas para decirle a un navegador como presentar una pagina.
+6.-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+
+7.-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+Los criminales ciberneticos utilizan Virus,negaciones de servicios y engaños phishings,para prevenir esto debemos no ingresar a paginas no confirmadas para empezar.
+Y si no pues debemos saber de donde vino aveces son los mismo limpiadores los que tren eso ademas puede que sea tambien problema de tu software.
+8.-¿Cómo funciona la búsqueda de google?
