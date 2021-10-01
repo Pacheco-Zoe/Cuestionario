@@ -1,4 +1,4 @@
-Diego Zoe Pacheco López y  4F
+Diego Zoe Pacheco López y Ismael Castro Monroy 4F
 1.-¿Qué es internet?
 Un sistema de comunicacion ,tal idea de romper mensajes en bloque y renviarlos tan rapido como sea posible a todas direcciones a traves de la red forma malla
 2.-Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
