@@ -1,20 +1,20 @@
 Diego Zoe Pacheco López y Ismael Castro Monroy 4º"F"
 1.-¿Qué es internet?
-Un sistema de comunicacion ,tal idea de romper mensajes en bloque y renviarlos tan rapido como sea posible a todas direcciones a traves de la red forma malla
+Un sistema de comunicacion ,tal idea de romper mensajes en bloque y renviarlos tan rapido como sea posible a todas direcciones a traves de la red forma malla <!-- ---- 5oct | @SRTP: ¿a qué te refieres con 'en forma de malla'?----  -->
 2.-Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-Las señales de radio se transmiten en el espacio en forma de ondas electromagnéticas. El receptor consta de una antena que captura las ondas y las "decodifica", es decir, las vuelve a convertir en señales eléctricas para restaurar la información original (audio en este caso).
+Las señales de radio se transmiten en el espacio en forma de ondas electromagnéticas. El receptor consta de una antena que captura las ondas y las "decodifica", es decir, las vuelve a convertir en señales eléctricas para restaurar la información original (audio en este caso). <!-- ---- 5oct | @SRTP: ok ----  -->
 3.-¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-El IP es solo tu computadora preguntando a otra computadora por información de origen y el DNS(Domain Name System) asocia nombres como por ejemplo www.hola.com ,y lo que hace tu computadora es buscar los nombres principales y obtener la direccion IP asociada para conectar a tu computadora.  
+El IP es solo tu computadora preguntando a otra computadora por información de origen y el DNS(Domain Name System) asocia nombres como por ejemplo www.hola.com ,y lo que hace tu computadora es buscar los nombres principales y obtener la direccion IP asociada para conectar a tu computadora.  <!-- ---- 5oct | @SRTP: ok ----  -->
 4.-Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-Esto es gracias a las onda de internet las cuales se comparte con el aparato a través de la compañía.
+Esto es gracias a las onda de internet las cuales se comparte con el aparato a través de la compañía. <!-- ---- 5oct | @SRTP: no se ve que hayas visto y entendido el video -0.5 ----  -->
 5.-Describe los protocolos que existen en internet, en específico HTTP y HTML
 HTTP:Significa HyperTextTransferProtocol,se ve como el lenguaje que usa tu computadora para pedir a otro ordenador un documento y esta es una compracion bastante ajustada.
-HTML:Significa HyperTextMarkupLenguaje,es el lenguaje que usas para decirle a un navegador como presentar una pagina.
+HTML:Significa HyperTextMarkupLenguaje,es el lenguaje que usas para decirle a un navegador como presentar una pagina. <!-- ---- 5oct | @SRTP: ok ----  -->
 6.-En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
 Esto me me ah ayudado a, que la encriptación informática sería la codificación de la información de los archivos o de un correo electrónico, esto sirve para no ser descifrado en caso de ser interceptado por alguien mientras esta información viaja por la red.
-Y de la llaves publicas me a servido a, enviar su llave pública en un canal abierto e inseguro. Tener la llave pública de alguna amistad o contacto le permite cifrar los mensajes que le envía. Su llave privada se usa para descifrar los mensajes que se le envían cifrados
+Y de la llaves publicas me a servido a, enviar su llave pública en un canal abierto e inseguro. Tener la llave pública de alguna amistad o contacto le permite cifrar los mensajes que le envía. Su llave privada se usa para descifrar los mensajes que se le envían cifrados <!-- ---- 5oct | @SRTP: ok ----  -->
 7.-En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
 Los criminales ciberneticos utilizan Virus,negaciones de servicios y engaños phishings,para prevenir esto debemos no ingresar a paginas no confirmadas para empezar.
-Y si no pues debemos saber de donde vino aveces son los mismo limpiadores los que tren eso ademas puede que sea tambien problema de tu software.
+Y si no pues debemos saber de donde vino aveces son los mismo limpiadores los que tren eso ademas puede que sea tambien problema de tu software. <!-- ---- 5oct | @SRTP: respuesta demasiado corta, faltó elaborar -0.25 ----  -->
 8.-¿Cómo funciona la búsqueda de google?
-Google es un motor de búsqueda, totalmente automatizado, que utiliza programas de software llamados "rastreadores web" para escanear periódicamente, la web en busca de sitios que se puedan agregar a su índice.
+Google es un motor de búsqueda, totalmente automatizado, que utiliza programas de software llamados "rastreadores web" para escanear periódicamente, la web en busca de sitios que se puedan agregar a su índice. <!-- ---- 5oct | @SRTP: falta desarrollar  -0.25----  -->
